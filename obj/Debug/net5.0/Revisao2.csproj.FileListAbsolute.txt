@@ -1,0 +1,16 @@
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\bin\Debug\net5.0\Revisao2.exe
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\bin\Debug\net5.0\Revisao2.deps.json
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\bin\Debug\net5.0\Revisao2.runtimeconfig.json
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\bin\Debug\net5.0\Revisao2.runtimeconfig.dev.json
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\bin\Debug\net5.0\Revisao2.dll
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\bin\Debug\net5.0\ref\Revisao2.dll
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\bin\Debug\net5.0\Revisao2.pdb
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\obj\Debug\net5.0\Revisao2.csproj.AssemblyReference.cache
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\obj\Debug\net5.0\Revisao2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\obj\Debug\net5.0\Revisao2.AssemblyInfoInputs.cache
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\obj\Debug\net5.0\Revisao2.AssemblyInfo.cs
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\obj\Debug\net5.0\Revisao2.csproj.CoreCompileInputs.cache
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\obj\Debug\net5.0\Revisao2.dll
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\obj\Debug\net5.0\ref\Revisao2.dll
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\obj\Debug\net5.0\Revisao2.pdb
+G:\Meu Drive\DIO\git\AvanadePrimeirosPassos\Revisao2\obj\Debug\net5.0\Revisao2.genruntimeconfig.cache
